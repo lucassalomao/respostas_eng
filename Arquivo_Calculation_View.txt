@@ -1,0 +1,14 @@
+1. Quais cuidados devo tomar ao realizar um Join entre duas Calculation Views, considerando
+que desejo propagar o filtro WHERE até a base de busca de ambas as views? 
+R:) - Verificar se as chaves estão corretas 
+    - Verificar se filtro where está aplicado corretamente em ambas as views
+    - Verificar se o tipo de Join está correto
+
+2. Por que devo deixar habilitado apenas as colunas que serão utilizadas durante meu
+desenvolvimento, deixando as colunas desnecessárias desativadas?
+R:) - Desativando as colunas você melhora o desempenho, eficiência e dimunui o volume de dados ( menos processamento do BD )
+
+3. Como avaliar um problema de performance?
+R:) - Usar o Show Executation Plan no Hana Studio
+    - Verificar Recursos de Memória e CPU
+    - Verificar Joins e Projections

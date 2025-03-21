@@ -1,0 +1,6 @@
+1. Você possui conhecimentos em tecnologias? Se sim, cite quais e como as utilizou.
+Exemplo: NodeJS, PHP, Angular, React, Linux, DevOps...
+
+R:) JavaScript - Cursos e aplicativos UI5
+    PHP/HTML   - Trabalhei em um sistema web feito pela empresa Múltipla sistemas 
+    ASP/HTML   - Trabalhei em demandas na Caixa Econômica Federal

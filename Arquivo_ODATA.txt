@@ -1,0 +1,10 @@
+1. Como você cria um serviço OData no SAP Gateway?
+R:) Transação SEGW, escolhe um objeto de dados (data model) criando ou importando, depois faz a relação e cardinalidade, mapeamento,...
+
+2. O que é o Entity Data Model (EDM) e como ele é utilizado no contexto do SAP OData?
+R:) O EDM (Entity Data Model) é utilizado para descrever as entidades (como tabelas, funções, CDS, etc.) e seus relacionamentos em um serviço OData. Ele é utilizado para definir e mapear as estruturas de dados para o serviço OData.
+
+
+3. Quais ferramentas SAP/Não SAP posso utilizar para testar meu serviço OData?
+R:) SAP     - /IWFND/MAINT_SERVICE, SEGW, /IWFND/GW_CLIENT
+    NÃO SAP - postman e SoapUI
