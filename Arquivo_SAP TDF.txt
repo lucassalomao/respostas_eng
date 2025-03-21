@@ -1,5 +1,8 @@
-1) O que é o SAP TDF? - SAP Tax Declaration Framework (TDF) é uma solução baseada na plataforma SAP HANA com o foco de gestão tributária e obrigações fiscais da empresa.
+1) O que é o SAP TDF? 
+R:) SAP Tax Declaration Framework (TDF) é uma solução baseada na plataforma SAP HANA com o foco de gestão tributária e obrigações fiscais da empresa.
 
-2) Possui experiência na implementação ou manutenção do SAP TDF? - Sim, já fiz algumas demandas na empresa Arcelor Mittal e em clientes da Engineering (Pfizer, Nestle,...)
+2) Possui experiência na implementação ou manutenção do SAP TDF? 
+R:) Sim, já fiz algumas demandas na empresa Arcelor Mittal e em clientes da Engineering (Pfizer, Nestle,...)
 
-3)Como faço para realizar a customização de alguma obrigação entregue pela SAP? - Entramos na transação /TMF/CTR_TECH_INFO e no campo register view colocamos a obrigação para verificarmos a tabela shadow. Através da tabela Shadow fazemos um programa de carga, procedure,... para customizar a obrigação.
+3)Como faço para realizar a customização de alguma obrigação entregue pela SAP? 
+R:) Entramos na transação /TMF/CTR_TECH_INFO e no campo register view colocamos a obrigação para verificarmos a tabela shadow. Através da tabela Shadow fazemos um programa de carga, procedure,... para customizar a obrigação.

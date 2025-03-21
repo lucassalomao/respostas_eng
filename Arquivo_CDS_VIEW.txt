@@ -5,4 +5,5 @@ R:) Criando uma CDS View Extension
 R:) Criando uma classe AMDP e consumindo a calc view em uma cds table function
 
 3. O que é e para que serve o BOPF?
+
 R:) O Business Object Processing Framework (BOPF) é um framework desenvolvido em ABAP OO, projetado para facilitar o trabalho com objetos de negócios (Business Object). Ele fornece uma estrutura padronizada que organiza o desenvolvimento, enfatizando o encapsulamento de funcionalidades de forma estruturada e objetiva.
