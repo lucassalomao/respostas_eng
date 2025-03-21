@@ -6,5 +6,5 @@ R:) O EDM (Entity Data Model) é utilizado para descrever as entidades (como tab
 
 
 3. Quais ferramentas SAP/Não SAP posso utilizar para testar meu serviço OData?
-R:) SAP     - /IWFND/MAINT_SERVICE, SEGW, /IWFND/GW_CLIENT
-    NÃO SAP - postman e SoapUI
+R:) SAP      - /IWFND/MAINT_SERVICE, SEGW, /IWFND/GW_CLIENT
+    NÃO SAP  - postman e SoapUI
